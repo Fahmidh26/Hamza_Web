@@ -658,6 +658,17 @@ section {
   padding: 12px 15px;
 }
 
+/* Orange */
+.warning {
+  border-color: #ff9800;
+  color: orange;
+}
+
+.warning:hover {
+  background: #ff9800;
+  color: white;
+}
+
 .get-started .php-email-form button[type=submit] {
   background: var(--color-primary);
   border: 0;
